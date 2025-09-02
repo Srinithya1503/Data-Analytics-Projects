@@ -7,5 +7,5 @@ This repository contains Python scripts and data for analyzing drug safety using
 
 ## Files
 - `drug_safety.csv`: Dataset
-- `analysis.py`: Main analysis script
+- `notebook.ipynb`: Main analysis script
 
